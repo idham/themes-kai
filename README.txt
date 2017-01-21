@@ -11,6 +11,7 @@ Tags: one-column, two-columns, right-sidebar, flexible-header, accessibility-rea
 
 Install Wordpress 
 Setting permalink menjadi Postname
+Ubah kategori uncategorized menjadi taxi dan buat kategori baru bernama porter 
 Install Plugins JSON-KAI dari https://github.com/idham/json-kai (unduh zip, dan add new plugins)
 Unduh mode zip themes ini dan aktifkan 
 Buat 4 page baru bernama 
